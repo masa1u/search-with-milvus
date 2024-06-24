@@ -1,4 +1,6 @@
 # image search with vector database, Milvus
+application that performs image searches based on the following official Milvus documentation
+https://milvus.io/docs/image_similarity_search.md
 
 ## preparation
 ```
