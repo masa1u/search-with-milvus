@@ -32,3 +32,9 @@ $ source myenv/bin/activate
 (myenv) python src/main.py "The path of the image to use for the search"
 ```
 You will find the results in the directory "src/results".
+
+## result
+### input example 1
+![query_image](https://github.com/masa1u/search-with-milvus/assets/88305358/f3377a81-4ba3-472d-b47a-d27bc31ad81a)
+### output example 2
+![results_image](https://github.com/masa1u/search-with-milvus/assets/88305358/f09e7d45-8a06-443c-9155-d84abf7c8a79)
