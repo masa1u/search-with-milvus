@@ -35,6 +35,17 @@ You will find the results in the directory "src/results".
 
 ## result
 ### input example 1
-![query_image](https://github.com/masa1u/search-with-milvus/assets/88305358/f3377a81-4ba3-472d-b47a-d27bc31ad81a)
-### output example 2
+<img src="https://github.com/masa1u/search-with-milvus/assets/88305358/f3377a81-4ba3-472d-b47a-d27bc31ad81a" width= "300px" >
+
+
+### output example 1
 ![results_image](https://github.com/masa1u/search-with-milvus/assets/88305358/f09e7d45-8a06-443c-9155-d84abf7c8a79)
+
+### input example 2
+<img src="https://github.com/masa1u/search-with-milvus/assets/88305358/d2f09b02-8a12-419d-a56c-5c06c728b037" width= "300px" >
+<!-- ![query_image](https://github.com/masa1u/search-with-milvus/assets/88305358/d2f09b02-8a12-419d-a56c-5c06c728b037) -->
+
+
+### output example 2
+![results_image](https://github.com/masa1u/search-with-milvus/assets/88305358/41665d37-2954-4990-ae0b-2ca1bb553005)
+
